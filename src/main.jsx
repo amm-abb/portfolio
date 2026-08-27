@@ -20,7 +20,7 @@ const projects = [
     demo: '#',
   },
   {
-    title: 'Data Analyytic Frontend',
+    title: 'Data Analytic Frontend',
     description: 'An ecommerce data pipeline with a react frontend showing data analytic results',
     tags: ['API', 'Node', 'React', 'Pandas', 'PostgreSQL', 'Pyspark', 'Python', 'Parquet'],
     icon: 'API',
