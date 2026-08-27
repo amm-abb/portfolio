@@ -94,7 +94,7 @@ function App() {
           <div className="container skills-layout">
             <div>
               <p className="eyebrow">Toolkit</p>
-              <h2>In Use Stack</h2>
+              <h2>Stack in Use</h2>
               <p className="muted">A focused stack for data pipelines and AI engineering</p>
             </div>
             <div className="skill-cloud">
